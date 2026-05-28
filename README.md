@@ -1,4 +1,3 @@
-# Daniel Blanco
 
 Architecting digital systems for AI, web, and cloud.
 
